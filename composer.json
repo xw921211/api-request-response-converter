@@ -2,12 +2,7 @@
     "name": "happy/api-request-response-converter",
     "description": "thinkphp",
     "type": "library",
-    "require": {
-        "php": "7.4.9"
-    },
-    "require-dev": {
-        "php": "7.4.9"
-    },
+    "require": {},
     "license": "Apache-2.0",
     "authors": [
         {
