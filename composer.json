@@ -1,0 +1,19 @@
+{
+    "name": "happy/api-request-response-converter",
+    "description": "thinkphp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "薛伟",
+            "email": "xw921211@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "happy\\": "src/"
+        }
+    }
+}
