@@ -20,5 +20,10 @@
         "psr-4": {
             "happy\\": "src/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        }
     }
 }
