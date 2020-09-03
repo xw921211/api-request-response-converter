@@ -1,7 +1,7 @@
 {
     "name": "happy/api-request-response-converter",
     "description": "thinkphp",
-    "type": "1",
+    "type": "library",
     "require": {
         "php": "7.4.9"
     },
